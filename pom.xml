@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>pani</finalName>
+    <finalName>jenkinsfile</finalName>
   </build>
 </project>
